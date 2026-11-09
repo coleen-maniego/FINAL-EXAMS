@@ -58,6 +58,7 @@ public class TrueOrFalseGame {
               playAgain = scanner.nextLine().trim().toLowerCase();
              } else {
                 System.out.print("OUTSTANDING!");
+                System.out.print("Try Again?!");
                 playAgain = scanner.nextLine().trim().toLowerCase();
             }
 
