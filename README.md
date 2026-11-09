@@ -1,2 +1,2 @@
 # FINAL-EXAMS
-for exam in finals only 
+for exam in finals only. period 
