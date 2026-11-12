@@ -1,2 +1,2 @@
 # FINAL-EXAMS
-for exam in finals only. period 
+For educational and exams purposes only
