@@ -24,7 +24,7 @@
 .navbar ul {
   list-style-type: none;
   padding: 0px;
-  margin: 2px;
+  margin: 0px;
   background-color: #80ffff;
 }
 
@@ -33,7 +33,7 @@
   color: #002966;
   text-align: center;
   padding: 10px;
-  font-size: 14px;
+  font-size: 15px;
   background-color: #80ffff;
 }
 
