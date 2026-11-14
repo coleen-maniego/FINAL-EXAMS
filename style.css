@@ -17,7 +17,8 @@
   max-width: 40%;
   cursor: pointer;
   background-color: #80ffff;
-  margin: auto;
+  margin: 0;
+  padding: 0;
   }
 
 .navbar ul {
