@@ -18,7 +18,6 @@
   margin-top: -3px;
   margin-left: -6px;
   background-color: #80ffff;
-  align-items: center;
   }
 
 .navbar ul {
@@ -40,10 +39,6 @@
 .navbar a:hover {
   background-color: #99ffff;
   color: rebeccapurple;
-}
-
-.navbar li{
-  float: left;
 }
 
 .bio details{
